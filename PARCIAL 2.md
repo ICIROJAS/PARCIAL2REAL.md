@@ -162,6 +162,52 @@ FOR
 DO WHILE  
   
  #### DIAGRAMA 5
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/5TO%20PROBLEMA%20DOWHILE.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/5TO%20PROBLEMA%20FOR.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/5TO%20PROBLEMA%20WHILE.jpg)
+
+**PRUEBA DE ESCRITORIO**
+
+#### CODIGOS                         
+WHILE
+ 
+  //Almacene un contador negativo en un vector, el conteo es de 10 a 0.
+void main() {
+  var arr = <int>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  int c = 10;
+  while (c >= 0) {
+    arr[10 - c] = c;
+    c = c - 1;
+  }
+  print(arr);
+}
+  
+FOR
+  
+  //Almacene un contador negativo en un vector, el conteo es de 10 a 0.
+
+void main() {
+  var arr = <int>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  int c = 10;
+  for (var i = 10; i >= 0; i--) {
+    arr[10 - i] = i;
+  }
+  print(arr);
+}
+  
+DO WHILE
+  
+  void main() {
+  var arr = <int>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  int c = 10;
+  do {
+    arr[10 - c] = c;
+    c = c - 1;
+  } while (c >= 0);
+  print(arr);
+}//dowhile
+
+#### DIAGRAMA 6
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PRBLEMA%20WHILE.jpg)
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20DOWHILE.jpg)
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20FOR.jpg)
@@ -171,7 +217,7 @@ DO WHILE
 #### CODIGOS                         
 WHILE
 FOR
-DO WHILE
+DO WHILE                       
                          
                          
                          
@@ -181,8 +227,9 @@ DO WHILE
                          
                          
                          
-                         
-                         
+                   
+  
+  
                          #### DIAGRAMA 1
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PRBLEMA%20WHILE.jpg)
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20DOWHILE.jpg)
