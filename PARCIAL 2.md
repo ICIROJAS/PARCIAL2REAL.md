@@ -208,9 +208,9 @@ DO WHILE
 }//dowhile
 
 #### DIAGRAMA 6
-![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PRBLEMA%20WHILE.jpg)
-![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20DOWHILE.jpg)
-![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20FOR.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/6TO%20PROBLEMA%20DOWHILE.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/6TO%20PROBLEMA%20FOR.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/6TO%20PROBLEMA%20WHILE.jpg)
 
 **PRUEBA DE ESCRITORIO**
 
@@ -231,9 +231,9 @@ DO WHILE
   
   
                          #### DIAGRAMA 1
-![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PRBLEMA%20WHILE.jpg)
-![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20DOWHILE.jpg)
-![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20FOR.jpg)
+![]()
+![]()
+![]()
 
 **PRUEBA DE ESCRITORIO**
 
