@@ -56,6 +56,7 @@ void main(List<String> args) {
 
 #### CODIGOS
   WHILE
+
  void main(List<String> args) {
   int s = 0, c = 1;
   while (c <= 5) {
@@ -64,8 +65,10 @@ void main(List<String> args) {
   }
   print("resultado de la suma de numeros pares:$s");
 } //While
-                         DO WHILE                        
-void main(List<String> args) {
+
+ DO WHILE                        
+
+               void main(List<String> args) {
   int s = 0, c = 1;
 
   do {
@@ -74,8 +77,10 @@ void main(List<String> args) {
   } while (c <= 5);
   print("la suma de numeros pares es:$s");
 } //Do While
-                         FOR
-                         void main(List<String> args) {
+         
+                  FOR
+                        
+                  void main(List<String> args) {
   int s = 0;
   for (var i = 2; i <= 10; i = i + 2) {
     s = s + i;
@@ -91,7 +96,8 @@ void main(List<String> args) {
 
 #### CODIGOS                         
 WHILE
-//Leer 10 numeros del teclado y ponerlos en una lista.
+
+ //Leer 10 numeros del teclado y ponerlos en una lista.
 void main() {
   var arra = new List.filled(10, 0);
   stdout.write("Dame diez numeros\n ");
@@ -106,9 +112,11 @@ void main() {
     i++;
   }
   stdout.write("Tu lista es, $arra ");
-}                         
+}
+  
 FOR
-//Leer 10 numeros del teclado y ponerlos en una lista.
+
+  //Leer 10 numeros del teclado y ponerlos en una lista.
 void main() {
   var arra = new List.filled(10, 0);
   stdout.write("Dame diez numeros\n ");
@@ -124,7 +132,8 @@ void main() {
 }
                          
 DO WHILE
-import 'dart:io';
+
+                        import 'dart:io';
 void main() {
   var arra = new List.filled(10, 0);
   stdout.write("Dame diez numeros\n ");
@@ -150,7 +159,19 @@ void main() {
 #### CODIGOS                         
 WHILE
 FOR
-DO WHILE                         
+DO WHILE  
+  
+ #### DIAGRAMA 5
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PRBLEMA%20WHILE.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20DOWHILE.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PROBLEMA%20FOR.jpg)
+
+**PRUEBA DE ESCRITORIO**
+
+#### CODIGOS                         
+WHILE
+FOR
+DO WHILE
                          
                          
                          
