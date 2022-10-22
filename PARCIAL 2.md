@@ -2,4 +2,4 @@
 ## PORTAFOLIO
 ## PROBLEMAS RESUELTOS EN CLASE
 #### DIAGRAMA 1
-![](https://github.com/ICIROJAS/PARCIAL-ICI/blob/main/PROGRAMA1.png)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/1ER%20PRBLEMA%20WHILE.jpg)
