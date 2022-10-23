@@ -56,6 +56,9 @@ void main(List<String> args) {
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/2DO%20PROBLEMA%20WHILE.jpg )                         
                        
   **PRUEBA DE ESCRITORIO**
+| S=S+C*2 | C=C+1 | C<=5 | S=S+C*2 | C=C+1 | C<=5 |S=S+C*2 | C=C+1 | C<=5 | S=S+C*2 | C=C+1 | C<=5 |S=S+C*2 | C=C+1 | C<=5 | S | 
+| ----------- | ----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+|  2 | 2 | SI | 6 | 3 | SI |12 | 4 | SI | 20 | 5 | SI | 30 | 6 | NO |  30 |                        
 
 #### CODIGOS
   WHILE
@@ -96,6 +99,10 @@ FOR
 ![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/3ER%20PROBLEMA%20FOR.jpg)
 
 **PRUEBA DE ESCRITORIO**
+                         
+| S=S+C*2 | C=C+1 | C<=5 | 
+| ----------- | ----------- |----------- |
+|  2 | 2 | SI |                        
 
 #### CODIGOS                         
 WHILE
