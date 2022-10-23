@@ -78,7 +78,7 @@ void main(List<String> args) {
   print("la suma de numeros pares es:$s");
 } //Do While
          
-                  FOR
+FOR
                         
                   void main(List<String> args) {
   int s = 0;
@@ -240,36 +240,16 @@ input("por favor, precione una tecla para salir.")
 FOR
   
   listanumeros = []
-numerousuario = int(input("introdusca un numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca otro numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca un numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca otro numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca un numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca otro numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca un numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca otro numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca un numero: "))
-listanumeros.append(numerousuario)
-numerousuario = int(input("introdusca otro numero: "))
-listanumeros.append(numerousuario)
 
-print(f"los numeros son {listanumeros}")
-
-def pares(listanumeros):
-    listanumeros = []
-
-
-for n in listanumeros:
-    if n % 2 == 0:
-        print("Estos numeros son pares"+ "  " + str(n))
+for x in range(10):
+    numerousuario=int(input("introdusca un numero: "))
+    if numerousuario % 2 == 0:
+      listanumeros.append(numerousuario)
+    else: numerousuario=int(input("El numero no es par, introdusca otro numero: "))
+    if numerousuario % 2 == 0:
+      listanumeros.append(numerousuario)
+    
+print(listanumeros)
   
 DO WHILE                       
                          
