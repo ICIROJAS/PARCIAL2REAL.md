@@ -292,9 +292,9 @@ else:
 
 **PRUEBA DE ESCRITORIO**
 
- | S=C+S | C=C+1 | C<=10 |
-| ----------- | ----------- |----------- |
-|  1 |  2  | SI | 
+ | CAL | C=C+1 | CAL>6  | A=APROBADO  | CAL | C=C+1 | CAL>6  | A=REPROBADO  | CAL | C=C+1 | CAL>6  | A=REPROBADO  | CAL | C=C+1 | CAL>6  | A=REPROBADO  |CAL | C=C+1 | CAL>6  | A=APROBADO  |CAL | C=C+1 | CAL>6  | A=APROBADO  |CAL | C=C+1 | CAL>6  | A=APROBADO  |CAL | C=C+1 | CAL>6  | A=APROBADO  | CAL | C=C+1 | CAL>6  | A=REPROBADO  | CAL | C=C+1 | CAL>6  | A=REPROBADO  | CAL | C=C+1 | CAL>6  | A=REPROBADO |CAL | C=C+1 | CAL>6  | A=APROBADO  |CAL | C=C+1 | CAL>6  | A=APROBADO  |CAL | C=C+1 | CAL>6  | A=APROBADO  |
+| ----------- | ----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+|  6 |  1  | SI | APROBADO|  5 |  2  | NO | REPROBADO | 4 |  3  | NO | REPROBADO | 5 |  4  | NO | REPROBADO |8 |  5  | SI | APROBADO|10 |  7  | SI | APROBADO|7 |  8  | SI | APROBADO|6|  9  | SI | APROBADO|5 |  10 | NO | REPROBADO| 4 |  11  | NO | REPROBADO| 1 |  12  | NO | REPROBADO| 6 |  13  | SI | APROBADO|9 |  14  | SI | APROBADO|10 |  15  | SI | APROBADO|  
                       
                        
 #### CODIGOS                         
