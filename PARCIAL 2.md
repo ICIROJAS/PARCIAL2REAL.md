@@ -216,18 +216,123 @@ DO WHILE
 
 #### CODIGOS                         
 WHILE
+  
+listanumeros = []
+numerousuario = int(input("introdusca un numero: "))
+listanumeros.append(numerousuario)
+decision = input("¿desea añadadir mas numeros?: ")
+
+while decision == "s" or decision == "s":
+    numerousuario = int(input("introdusca otro numero: "))
+    listanumeros.append(numerousuario)
+    decision = input("¿desea añadir otro numero?: ")
+
+
+print(f"los numeros son {listanumeros}")
+for n in listanumeros:
+    if n % 2 == 0:
+        print("Este numero de la lista es par" + str(n))
+        
+
+
+input("por favor, precione una tecla para salir.") 
+  
 FOR
+  
+  listanumeros = []
+numerousuario = int(input("introdusca un numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca otro numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca un numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca otro numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca un numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca otro numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca un numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca otro numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca un numero: "))
+listanumeros.append(numerousuario)
+numerousuario = int(input("introdusca otro numero: "))
+listanumeros.append(numerousuario)
+
+print(f"los numeros son {listanumeros}")
+
+def pares(listanumeros):
+    listanumeros = []
+
+
+for n in listanumeros:
+    if n % 2 == 0:
+        print("Estos numeros son pares"+ "  " + str(n))
+  
 DO WHILE                       
                          
+print("PARES")
+numero_1 = int(input("Escriba un número entero: "))
+numero_2 = int(input(f"Escriba un número entero mayor o igual que {numero_1}: "))
+
+if numero_2 < numero_1:
+        print(f"¡Le he pedido un número entero mayor o igual que {numero_1}!")
+else:
+        for i in range(numero_1, numero_2 + 1):
+            if i % 2 == 0:
+                print(f"El número {i} es par.")                         
+                         
+#### DIAGRAMA 7
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/7MO%20PROBLEMA%20DOWHILE.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/7MO%20PROBLEMA%20FOR.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/7MO%20PROBLEMA%20WHILE.jpg)
+
+**PRUEBA DE ESCRITORIO**
+
+#### CODIGOS                         
+WHILE
+                       
+         
+                       
+FOR
+                       
+                       
+                       
+DO WHILE                        
                          
                          
                          
                          
                          
-                         
-                         
-                         
-                   
+                 
+                       
+#### DIAGRAMA 8
+![]()
+![]()
+![]()
+
+**PRUEBA DE ESCRITORIO**
+
+#### CODIGOS                         
+WHILE
+FOR
+DO WHILE
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
   
   
                          #### DIAGRAMA 1
