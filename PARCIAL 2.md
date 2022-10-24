@@ -323,13 +323,13 @@ DO WHILE
 
 #### CODIGOS                         
 WHILE
-# Capture n números en el rango [Li,Ls] donde: 
-# -Li = Limite inferior
-# -Ls limite superior para li<ls y li>0
-#                  Obtenga:
-# - Cantidad de números pares y su promedio
-# - Cantidad de números impares y su promedio
-# - ¿Qué promedio es mayor?
+ Capture n números en el rango [Li,Ls] donde: 
+ -Li = Limite inferior
+ -Ls limite superior para li<ls y li>0
+                  Obtenga:
+ - Cantidad de números pares y su promedio
+ - Cantidad de números impares y su promedio
+- ¿Qué promedio es mayor?
 
 print("Dame Límite inferior: ")
 Li = int(input())
