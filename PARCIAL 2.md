@@ -315,9 +315,9 @@ DO WHILE
                  
                        
 #### DIAGRAMA 8
-![]()
-![]()
-![]()
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/DO%20WHILE%208.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/FOR.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/WHILE.jpg)
 
 **PRUEBA DE ESCRITORIO**
 
