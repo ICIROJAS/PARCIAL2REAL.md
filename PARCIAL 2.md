@@ -341,10 +341,10 @@ DO WHILE
                        
   
   
-                         #### DIAGRAMA 9
-![]()
-![]()
-![]()
+#### DIAGRAMA 9
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/PROBLEMA%20DOWHILE%209.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/PROBLEMA%20FOR%209.jpg)
+![](https://github.com/ICIROJAS/PARCIAL2REAL.md/blob/main/PROBLEMA%20WHILE%209.jpg)
 
 **PRUEBA DE ESCRITORIO**
 
